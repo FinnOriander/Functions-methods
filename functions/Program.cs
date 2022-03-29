@@ -6,7 +6,12 @@ namespace functions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SayHello();
+        }
+
+        static void SayHello(){
+            Console.WriteLine("sss");
+            Console.WriteLine("dddd");
         }
     }
 }
