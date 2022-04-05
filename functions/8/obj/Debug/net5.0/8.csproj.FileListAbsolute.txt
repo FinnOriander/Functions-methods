@@ -1,0 +1,5 @@
+C:\Users\102714329\OneDrive - Swinburne University\Programming\Functions-methods\functions\8\obj\Debug\net5.0\8.csproj.AssemblyReference.cache
+C:\Users\102714329\OneDrive - Swinburne University\Programming\Functions-methods\functions\8\obj\Debug\net5.0\8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\102714329\OneDrive - Swinburne University\Programming\Functions-methods\functions\8\obj\Debug\net5.0\8.AssemblyInfoInputs.cache
+C:\Users\102714329\OneDrive - Swinburne University\Programming\Functions-methods\functions\8\obj\Debug\net5.0\8.AssemblyInfo.cs
+C:\Users\102714329\OneDrive - Swinburne University\Programming\Functions-methods\functions\8\obj\Debug\net5.0\8.csproj.CoreCompileInputs.cache
